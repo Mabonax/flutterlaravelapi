@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterlaravelapi/Screens/Auth/Login.dart';
-import 'package:flutterlaravelapi/Screens/Auth/Register.dart';
+import 'package:flutterlaravelapi/screens/auth/login.dart';
+import 'package:flutterlaravelapi/screens/auth/register.dart';
 import 'package:flutterlaravelapi/Screens/categories/categories_list.dart';
 
 void main() {
